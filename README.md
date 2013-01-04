@@ -5,6 +5,9 @@ Hotkey macros to improve MechWarrior Online in-game chat.
 
 This is an AHK script that displays a handy menu of Team-chat and All-chat messages. The aim to communicate a bit more effectively in PUG games without spending the whole time typing.
 
+I haven't added any kind of in-game overlay yet, nor do I know if it's possible with AHK and MWO. You may need to keep the window open in sight on a secondary monitor for it to be of any use to you.
+
+
 Usage
 =====
 
